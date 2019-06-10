@@ -7,3 +7,6 @@ Content:
 4. Hidden state evolution
 5. TorchScript optimization
 6. CIFAR10
+
+Requirements:
+ PyTorch v1.1
